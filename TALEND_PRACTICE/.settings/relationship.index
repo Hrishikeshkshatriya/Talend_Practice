@@ -72,6 +72,10 @@
     "type" : "job"
   },
   "relatedItems" : [ {
+    "id" : "_BEj5EJKxEeuPtd4JoG1MOg",
+    "version" : "Latest",
+    "type" : "resource"
+  }, {
     "id" : "DQTechnical",
     "version" : "Latest",
     "type" : "routine"
